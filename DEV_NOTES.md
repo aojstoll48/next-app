@@ -16,3 +16,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-15
 - Fixed off-by-one error in loop
+
+## 2026-04-15
+- Added CONTRIBUTING.md stub
+- Updated .gitignore to exclude build artifacts
+- Investigated performance bottleneck, noted findings
