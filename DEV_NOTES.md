@@ -31,3 +31,8 @@ Personal development log — notes, findings, and ongoing work.
 - Refactored module structure for clarity
 - Updated .gitignore to exclude build artifacts
 - Addressed feedback from self code review
+
+## 2026-05-06
+- Resolved TODO items from previous session
+- Added CONTRIBUTING.md stub
+- Added basic usage examples to README
