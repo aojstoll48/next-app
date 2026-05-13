@@ -41,3 +41,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic retry logic for network requests
 - Fixed minor edge case in input handling
 - Improved error handling in edge cases
+
+## 2026-05-13
+- Documented config options
+- Tested build on clean environment
+- Ran linter, applied auto-fixes
